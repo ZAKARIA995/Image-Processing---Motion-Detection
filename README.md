@@ -1,1 +1,1 @@
-# Image Processing-Motion-Detection
+# Image Processing-Motion Detection
